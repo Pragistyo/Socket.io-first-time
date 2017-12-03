@@ -1,0 +1,13 @@
+{
+  "name": "Socket.io-first-time",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Pragistyo/Socket.io-first-time.git",
+  "author": "Pragistyo <new.SOS.hope@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jquery": "^3.2.1",
+    "socket.io": "^2.0.4"
+  }
+}
